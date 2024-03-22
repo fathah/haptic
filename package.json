@@ -1,0 +1,30 @@
+{
+  "name": "@fathah_cr/haptic",
+  "version": "0.0.2",
+  "description": "Web Haptics",
+  "main": "src/haptics.js",
+  "typings": "typings/haptics.d.ts",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fathah/haptic"
+  },
+  "keywords": [
+    "haptics",
+    "vibrate"
+
+  ],
+  "author": "Abdul Fathah KA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fathah/haptic/issues"
+  },
+  "homepage": "https://github.com/fathah/haptic#readme"
+}
